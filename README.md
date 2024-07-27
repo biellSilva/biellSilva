@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Olá! Me chamo Gabriel e sou Desenvolvedor Backend!
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=biellSilva&theme=black-ice)](https://git.io/streak-stats)
